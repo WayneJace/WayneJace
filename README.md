@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently a student at Utah State University working towards a degree in the Natural Resource Department. I'm currently in Advanced GIS and look forward to imporving my projects within Github.
 <!--
 **WayneJace/WayneJace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
